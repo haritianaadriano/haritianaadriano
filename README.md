@@ -6,7 +6,7 @@
     </h1>   
 </div>
 <div align="center">
-  <img src="/img/wallpaper4.jpg " width="600" height="300"/>
+  <img src="/img/pexels-anjana-c-674010.jpg " width="1000" height="500"/>
 </div>
 
 ---

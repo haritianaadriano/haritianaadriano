@@ -24,7 +24,7 @@ I am a student in computer science  <img src="https://media.giphy.com/media/WUlp
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg    title="java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg"   title="java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html5" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="css3" width="40" height="40"/>&nbsp;

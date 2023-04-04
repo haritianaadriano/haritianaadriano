@@ -16,9 +16,9 @@ I am a student in computer science  <img src="https://media.giphy.com/media/WUlp
 
 - :telescope: I am more comfortable in back-end development but I can contribute to front-end project
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring some tehcnologies and evolved in time.
 
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
+- :zap: In my free time, I solve problems on Codewars and read tech articles for staying fresh with technologies.
 
 ---
 

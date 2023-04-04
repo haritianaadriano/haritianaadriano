@@ -41,6 +41,8 @@ I am a student in computer science  <img src="https://media.giphy.com/media/WUlp
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haritianaadriano&theme=dark&background=000012)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haritianaadriano)](https://github.com/anuraghazra/github-readme-stats)
 <h2> 🚀 &nbsp;My GitHub History!</h2>
+
+
 ![Snake animation](https://github.com/haritianaadriano/haritianaadriano/blob/output/github-contribution-grid-snake.svg)
 <!--
 **haritianaadriano/haritianaadriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

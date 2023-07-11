@@ -1,12 +1,12 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/3ITYOFkCP18TqyAKxW/giphy.gif" width="150"/>
+    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="150"/>
     <h1>
         hey there
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>   
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="1000" height="500"/>
+  <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="1000" height="500"/>
 </div>
 
 ---

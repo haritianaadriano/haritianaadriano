@@ -6,7 +6,7 @@
     </h1>   
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="1000" height="500"/>
+  <img src="./img/pexels-anjana-c-674010.jpg" width="1000" height="500"/>
 </div>
 
 ---

@@ -45,8 +45,6 @@ I am a student in computer science  <img src="https://media.giphy.com/media/WUlp
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=haritianaadriano&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <h2> 🚀 &nbsp;My GitHub History!</h2>
 
-
-![Snake animation](https://github.com/haritianaadriano/haritianaadriano/blob/output/github-contribution-grid-snake.svg)
 <!--
 **haritianaadriano/haritianaadriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
